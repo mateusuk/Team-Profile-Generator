@@ -1,0 +1,14 @@
+
+.team-heading{
+    background-image:linear-gradient(to right, red , blue);
+}
+.employee-card{
+    margin: 0px 10px;
+}
+
+.card-header{
+    background-color: rgba(167, 152, 152, 0.333);
+}
+.card-body{
+    background-image: linear-gradient(to bottom right, rgba(167, 152, 152, 0.333) , rgb(25, 25, 38));
+}
